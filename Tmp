@@ -1,0 +1,2 @@
+ BizAccountParam bizAccountParam = GsonUtils.fromJSON(request.getBizAccountParam(), BizAccountParam.class);
+转数据
